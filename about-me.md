@@ -18,6 +18,7 @@ My favorite programming language is **Python**.
 
 I like Python because it has simple and readable syntax, making it easier to learn programming concepts and develop different applications.
 
+
 ---
 
 *Thank you for visiting my repository!*
